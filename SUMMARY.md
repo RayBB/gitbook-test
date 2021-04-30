@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [internetarchive/openlibrary readme](untitled.md)
+* [openlibrary readme](untitled.md)
 * [Githhub Wiki Import](untitled-1/README.md)
   * [\_Sidebar](untitled-1/_sidebar.md)
   * [Anti-Spam-Tools](untitled-1/anti-spam-tools.md)

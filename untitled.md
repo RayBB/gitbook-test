@@ -1,4 +1,8 @@
-# internetarchive/openlibrary readme
+---
+description: A direct import of the markdown from github
+---
+
+# openlibrary readme
 
 [![Build Status](https://camo.githubusercontent.com/035a6b3ae1de4fc8af5b239d3900ba2caaf3500073123275b85331652704d204/68747470733a2f2f7472617669732d63692e6f72672f696e7465726e6574617263686976652f6f70656e6c6962726172792e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/internetarchive/openlibrary) [![Join the chat at https://gitter.im/theopenlibrary/Lobby](https://camo.githubusercontent.com/651941e50b260d8419e94b6ced10b90981727fa67f58d1170288a8967a5252b4/68747470733a2f2f6261646765732e6769747465722e696d2f7468656f70656e6c6962726172792f4c6f6262792e737667)](https://gitter.im/theopenlibrary/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
